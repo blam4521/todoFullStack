@@ -1,0 +1,22 @@
+{
+  "name": "to-do-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bookshelf": "^0.12.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "knex": "^0.14.4",
+    "npm": "^5.7.1",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
